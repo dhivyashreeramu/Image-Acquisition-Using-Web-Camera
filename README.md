@@ -1,4 +1,7 @@
 ## EXPERIMENT -02 Image-Acquisition-Using-Web-Camera
+## Developed By: DHIVYASHREE R
+
+## Register Number: 212225040077
 
 ## Aim
 
@@ -37,10 +40,6 @@ Divide the frame into four parts, resize the frame, and assign the smaller frame
 Rotate the frame using cv2.rotate() and display the output.
 
 ## Program
-
-## Developed By: DHIVYASHREE R
-
-## Register Number: 212225040077
 
 ## i) Write the Frame as a JPG File
 
