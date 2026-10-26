@@ -1,5 +1,5 @@
 ## EXPERIMENT -02 Image-Acquisition-Using-Web-Camera
-## Developed By: DHIVYASHREE R
+## NAME: DHIVYASHREE R
 
 ## Register Number: 212225040077
 
